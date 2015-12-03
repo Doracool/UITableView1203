@@ -27,7 +27,7 @@ static NSString *QYID = @"QYCell";
     //懒加载
     
     self.tableView.rowHeight = 100;
-    [self.tableView registerClass:[UITableViewCell class] forCellReuseIdentifier:QYID];
+//    [self.tableView registerClass:[UITableViewCell class] forCellReuseIdentifier:QYID];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
